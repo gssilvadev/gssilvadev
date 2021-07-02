@@ -19,7 +19,7 @@ Contacts:
 
 <p align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gssilvadev)](https://github.com/anuraghazra/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gssilvadev&layout=compact&&langs_count=6)]
  (https://github.com/gssilvadev)
 [![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=gssilvadev&show_icons=true&theme=default&include_all_commits=true&count_private=true&border=none&hide=prs)]
   (https://github.com/gssilvadev)

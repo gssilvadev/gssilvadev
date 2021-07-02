@@ -1,21 +1,27 @@
-# Gabriel Soares Silva
+Hello, Welcome my github profile👋
+My name is Gabriel Soares I'm a Developer 💻
+I've been passionate about technology and problem solving since childhood.
 
-[![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/ssgabriel/)
+Some technologies in focus now:
+✔️ Javascript
+✔️ Css
+✔️ HTML
 
-## 🖖 Fala dev! 🖖
+And more others
+📚 Always studying to improve my skills and do a better job.
 
-🚀 Atualmente estou ampliando meus conhecimentos em tecnologias!
+About me: I like technology 🤓, games 🎮, developing 💻, netflix, talk...
 
-## 📑 Conhecimentos:
+Contacts:
+✉️ gabrielgss@hotmail.com
+💻 https://www.linkedin.com/in/ssgabriel/
+
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/BrunoPiresDeOliveira/BrunoPiresDeOliveira/34cc5ce8b7300b904dd754dffc6511dec8fec0dc/assets/html5.svg" width="48"/>
-
-<img src="https://raw.githubusercontent.com/BrunoPiresDeOliveira/BrunoPiresDeOliveira/34cc5ce8b7300b904dd754dffc6511dec8fec0dc/assets/css3.svg" width="48"/>
-
-<img src="https://raw.githubusercontent.com/BrunoPiresDeOliveira/BrunoPiresDeOliveira/34cc5ce8b7300b904dd754dffc6511dec8fec0dc/assets/javascript.svg" width="48"/>
-
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gssilvadev)](https://github.com/anuraghazra/github-readme-stats)]
+ (https://github.com/gssilvadev)
+[![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=gssilvadev&show_icons=true&theme=default&include_all_commits=true&count_private=true&border=none&hide=prs)]
+  (https://github.com/gssilvadev)
 
 </p>
-
-## 🤗 Sobre mim:
-Moro em São Paulo, sou um estudante de Análise e Desenvolvimento de Sistemas, sempre buscando novos desafios e tecnologias.

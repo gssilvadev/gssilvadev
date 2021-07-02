@@ -4,6 +4,7 @@ My name is Gabriel Soares I’m currently learning 💻
 </br> I've been passionate about technology and problem solving since childhood.
 
 Some technologies in focus now:
+
 ✔️ Javascript
 ✔️ Css
 ✔️ HTML
